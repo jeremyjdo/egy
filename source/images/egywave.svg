@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="112px" viewBox="0 0 1024 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>egyHeader-background</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(0.000000, -395.000000)">
+            <g id="Header">
+                <g id="Header-background" transform="translate(0.000000, 396.000000)">
+                    <path d="M1028,0 C966.12206,60.2327938 877.195062,90.37189 761.219004,90.4172886 C645.242947,90.4626872 392.836612,60.323591 4,0 L1028,0 Z" id="Rectangle" fill-opacity="0.66" fill="#1465F6"></path>
+                    <path d="M1028,0 C614.162094,73.1572704 356.930698,109.735906 256.305814,109.735906 C155.680929,109.735906 71.5789912,73.1572704 4,0" id="Line" stroke="#46CE92" stroke-width="1.5" stroke-linecap="square"></path>
+                    <path d="M1026,0 C619.761314,54.5572978 366.329529,81.8359466 265.704645,81.8359466 C165.07976,81.8359466 77.1782118,54.5572978 2,0" id="Line" stroke="#B9B9B9" stroke-width="1.5" stroke-linecap="square"></path>
+                    <path d="M0,0 C9.70016637,53.235708 91.0613216,77.4630674 244.083466,72.6820784 C397.10561,67.9010894 657.077788,43.6737299 1024,0" id="Line-2" stroke="#15408D" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="39px" viewBox="0 0 47 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>egy-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="51.4619938%" y2="98.5177891%" id="linearGradient-1">
+            <stop stop-color="#15408D" offset="0%"></stop>
+            <stop stop-color="#46CE92" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10,0.000654839364 L25,0.000654839364 L25,0.000654839364 C30.5228475,0.000654839364 35,4.47780734 35,10.0006548 L35,20 L35,20 C35,25.5228475 30.5228475,30 25,30 L10,30 L10,30 C4.4771525,30 6.76353751e-16,25.5228475 0,20 L0,14.3790705 L0,10.0006548 L1.77635684e-15,10.0006548 C1.10000309e-15,4.47780734 4.4771525,0.000654839364 10,0.000654839364 Z" id="path-2"></path>
+        <filter x="-5.7%" y="-3.3%" width="111.4%" height="113.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M20,7 L35,7 L35,7 C40.5228475,7 45,11.4771525 45,17 L45,26.9993452 L45,26.9993452 C45,32.5221927 40.5228475,36.9993452 35,36.9993452 L20,36.9993452 L20,36.9993452 C14.4771525,36.9993452 10,32.5221927 10,26.9993452 L10,21.3784157 L10,17 L10,17 C10,11.4771525 14.4771525,7 20,7 Z" id="path-4"></path>
+        <filter x="-5.7%" y="-3.3%" width="111.4%" height="113.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-19.000000, -15.000000)">
+            <g id="Header">
+                <g id="banner" transform="translate(20.000000, 10.000000)">
+                    <g id="Logo-texte">
+                        <g id="logo" transform="translate(0.000000, 5.000000)">
+                            <g id="Rectangle-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <path stroke="url(#linearGradient-1)" stroke-width="5" d="M10,2.50065484 C5.85786438,2.50065484 2.5,5.85851922 2.5,10.0006548 L2.5,20 C2.5,24.1421356 5.85786438,27.5 10,27.5 L25,27.5 C29.1421356,27.5 32.5,24.1421356 32.5,20 L32.5,10.0006548 C32.5,5.85851922 29.1421356,2.50065484 25,2.50065484 L10,2.50065484 Z"></path>
+                            </g>
+                            <g id="Rectangle-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#FDFFFE" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <path stroke="url(#linearGradient-1)" stroke-width="5" d="M20,9.5 C15.8578644,9.5 12.5,12.8578644 12.5,17 L12.5,26.9993452 C12.5,31.1414808 15.8578644,34.4993452 20,34.4993452 L35,34.4993452 C39.1421356,34.4993452 42.5,31.1414808 42.5,26.9993452 L42.5,17 C42.5,12.8578644 39.1421356,9.5 35,9.5 L20,9.5 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

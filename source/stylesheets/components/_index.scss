@@ -1,0 +1,60 @@
+// Import your components CSS files here.
+@import "banner";
+@import "btn";
+@import "cont";
+@import "phone";
+@import "navbar-wagon";
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: #15408D;
+  letter-spacing: 1.01px;
+  background-image: url("img/egybackground.png");
+  background-repeat: repeat-y;
+}
+
+p {
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h1 span{
+  color: #46CE92;
+}
+
+.reverse {
+  color: white;
+}
+
+h2 {
+  font-size: 18px;
+  font-family: Lato-Light;
+}
+
+.gray {
+  color: #B9B9B9;
+}
+
+#logo {
+  text-transform: uppercase;
+  color: white;
+  font-family: Lato-Black;
+  font-size: 36px;
+  color: #FFFFFF;
+  letter-spacing: 4.5px;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.50);
+  margin-left: 10px;
+}
+
+#wavy {
+  width: 100%;
+}
+
