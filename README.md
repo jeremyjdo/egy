@@ -1,5 +1,4 @@
-# egy, reduisez votre facture d'éléctricité en discutant avec EGY
+# EGY, Discutez et reduisez votre facture d'éléctricité
 
-# Landing page EGY
-
-# Hackathon NC Smart life 2017
+Landing page EGY
+Hackathon NC Smart life 2017
